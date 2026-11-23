@@ -19,7 +19,6 @@
 | [Ignite](./THMI.gnite.md) | CVE-2018-16763 (RCE в Fuel CMS) + PrivEsc через пароли в конфигах | Easy |
 | [Vulnversity](./THMV.ulnversity.md) | Обход загрузки файлов (.phtml) + PrivEsc через SUID (systemctl) | Easy |
 
-*(В будущем тут появятся отчеты по Active Directory, Web Pentest и другим направлениям).*
-
 ---
-*Связаться со мной:* [TryHackMe Profile](https://tryhackme.com/p/LESHAD?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=e27a0dd268e5&utm_source=copy&share_date=2026-11-23&sharerId=69491e41bb74de1b6854cf31)
+
+*Связаться со мной:* [TryHackMe](https://tryhackme.com/p/LESHAD?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=e27a0dd268e5&utm_source=copy&share_date=2026-11-23&sharerId=69491e41bb74de1b6854cf31)
