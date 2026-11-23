@@ -16,8 +16,8 @@
 
 | Комната | Вектор атаки | Сложность |
 | :--- | :--- | :--- |
-| [Ignite](./THMI.gnite.md) | CVE-2018-16763 (RCE в Fuel CMS) + PrivEsc через пароли в конфигах | Easy |
-| [Vulnversity](./THMV.ulnversity.md) | Обход загрузки файлов (.phtml) + PrivEsc через SUID (systemctl) | Easy |
+| [Ignite](../thm-writeups/THM.Ignite.md) | CVE-2018-16763 (RCE в Fuel CMS) + PrivEsc через пароли в конфигах | Easy |
+| [Vulnversity](../thm-writeups/THM.Vulnversity.md) | Обход загрузки файлов (.phtml) + PrivEsc через SUID (systemctl) | Easy |
 
 ---
 
